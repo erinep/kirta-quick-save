@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=erin-quick-scripts
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Erin's Krita Quick Scripts
+Comment=A random collection of krita scripts
